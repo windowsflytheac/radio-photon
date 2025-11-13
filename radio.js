@@ -13,8 +13,8 @@ const stationFiles = [
   'audio/Portal2-1x02-Concentration_Enhancing_Menu_Initialiser.mp3',
   'audio/Portal2-1x03-999999.mp3',
   'audio/Portal2-1x04-The_Courtesy_Call.mp3',
-  'audio/Portal2-1x05-Technical_Difficulties.mp3'
-  'audio/station1.mp3'
+  'audio/Portal2-1x05-Technical_Difficulties.mp3',
+  'audio/station1.mp3',
   'audio/station2.mp3'
 ];
 
